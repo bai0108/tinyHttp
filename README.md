@@ -4,7 +4,7 @@ Implement a http server in Java
 Create a children thread to process clients' request: GET or POST.
 Base on the request, server create a new process to run cgi script.
 ### Server workflow
-![alt text] (https://github.com/bai0108/tinyHttp/blob/main/img/serverFlowchart.png)
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
 ## Client.java
 Simple client program
 
